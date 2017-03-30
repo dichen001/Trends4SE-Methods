@@ -1,0 +1,32 @@
+id,acronym,name,impact,is_conference
+1,ICSE,"International Conference on Software Engineering",117,1
+2,ICSM,"International Conference on Software Maintenance",53,1
+3,WCRE,"Working Conference on Reverse Engineering",43,1
+4,CSMR,"European Conference on Software Maintenance and Reengineering",40,1
+5,MSR,"Mining Software Repositories",32,1
+6,GPCE,"International Conference on Generative Programming",37,1
+7,FASE,"Fundamental Approaches to Software Engineering",42,1
+8,ICPC,"International Conference on Program Comprehension",43,1
+9,FSE,"Foundations of Software Engineering",59,1
+10,SCAM,"International Conference on Source Code Analysis & Manipulation",15,1
+11,ASE,"Automated Software Engineering",55,1
+12,SANER,"International Conference on Software Analysis, Evolution, and Reengineering",-1,1
+13,SSBSE,"Symposium of Search Based Software Engineering",-1,1
+14,RE,"Requirements Engineering",-1,1
+15,ISSTA,"International Symposium on Software Testing and Analysis",-1,1
+16,ICST,"International Conference on Software Testing, Verification and Validation",-1,1
+17,ESEM,"Empirical Software Engineering and Measurement",-1,1
+18,JSS,"Journal of Systems and Software",-1,0
+19,TSE,"IEEE Transactions on Software Engineering",-1,0
+20,SOFTWARE,"IEEE Software",-1,0
+21,ESE,"Empirical Software Engineering",-1,0
+22,SPE,"Software - Practice and Experience",-1,0
+23,IJSEKE,"International Journal of Software Engineering and Knowledge Engineering",-1,0
+24,ISSE,"Innovations in Systems and Software Engineering",-1,0
+25,SMR,"Journal of Software: Evolution and Process",-1,0
+26,SIGSOFT,"ACM SIGSOFT Software Engineering Notes",-1,0
+27,REJ,"Requirements Engineering Journal",-1,0
+28,TOSEM,"Transactions on Software Engineering and Methodology",-1,0
+29,ASEJ,"Automated Software Engineering Journal",-1,0
+30,SQJ,"Software Quality Journal",-1,0
+31,STVR,"Software Testing, Verification & Reliability",-1,0
