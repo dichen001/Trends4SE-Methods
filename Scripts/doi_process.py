@@ -11,3 +11,4 @@ input_csv = os.path.join(DIR, os.pardir, 'Paper', 'all_v8.csv')
 original_data = pd.read_csv(input_csv)
 original_data['DOI'] = original_data['DOI_URL'].apply(lambda x: x.split('.org/')[-1])
 print original_data['DOI']
+original_data.to_csv('../Paper/doi_preprocessed.csv')
